@@ -8,9 +8,14 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "jwt-decode": "^3.1.2",
+    "lodash": "^4.17.20",
+    "moment": "^2.29.1",
+    "semantic-ui-css": "^2.4.1",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0",
-    "vuex": "^4.0.0-0"
+    "vuex": "^4.0.0-0",
+    "yup": "0.31.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
